@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arnav0511
-- 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in web & web-app development 
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on projects and team collabs
-- 📫 How to reach me ...
+- 📫 reach me out at arnavsaini.connect@gmail.com
 
 <!---
 arnav0511/arnav0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
